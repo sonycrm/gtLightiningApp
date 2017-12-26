@@ -310,14 +310,14 @@
     [
         "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp",
         {
+            "state": "u",
             "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp",
             "isDirectory": false,
-            "size": 1428,
-            "modifiedTime": 1514311867520,
-            "changeTime": 1514311867521,
-            "contentHash": "725fc201aa517dd5aa89297c82370186153dec14",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 1073,
+            "modifiedTime": 1514312221318,
+            "changeTime": 1514312221321,
+            "contentHash": "43ff6f3376c1be9ca91812bcfd5f562389e71752"
         }
     ],
     [
@@ -440,14 +440,14 @@
     [
         "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3755,
             "modifiedTime": 1514312125013,
             "changeTime": 1514312125015,
-            "contentHash": "4ca6b3db209a335a4e9d8e4c27db433a525d2407"
+            "contentHash": "4ca6b3db209a335a4e9d8e4c27db433a525d2407",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
