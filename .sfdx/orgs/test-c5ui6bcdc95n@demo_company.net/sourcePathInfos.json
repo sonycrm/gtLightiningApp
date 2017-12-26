@@ -2,14 +2,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1514220948270,
             "changeTime": 1514220948270,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1514224338019,
             "changeTime": 1514224338019,
             "contentHash": "7261fe47f8b69f386f8f719ea32a4aa531e6709f",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1514220948271,
             "changeTime": 1514220948271,
             "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1514223167777,
             "changeTime": 1514223167777,
             "contentHash": "256a6954e1b9294b147135836439d909f6efda40",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1514223167811,
             "changeTime": 1514223167811,
             "contentHash": "901798d2b243fc6bafb9dcc30fdb68fe495ce8c1",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.auradoc",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1514223167810,
             "changeTime": 1514223167810,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -96,24 +96,25 @@
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 466,
-            "modifiedTime": 1514294760551,
-            "changeTime": 1514294760552,
+            "size": 483,
+            "modifiedTime": 1514297674568,
+            "changeTime": 1514297674571,
+            "contentHash": "977762c5df5a7fc7c45665e8334b5a8865fbd544",
             "isWorkspace": false,
-            "contentHash": "af559b4f5aea0c11e2e745d5f8b52e7b92e3ec5d"
+            "isArtifactRoot": false
         }
     ],
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 241,
             "modifiedTime": 1514223167780,
             "changeTime": 1514223167780,
             "contentHash": "187f656fc1d01f5386537d41232350954480b3ca",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -121,14 +122,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.css",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1514223167806,
             "changeTime": 1514223167806,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -136,14 +137,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.design",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1514223167811,
             "changeTime": 1514223167811,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -151,14 +152,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.svg",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1514223167809,
             "changeTime": 1514223167809,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -166,14 +167,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoController.js",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 379,
             "modifiedTime": 1514294708250,
             "changeTime": 1514294708253,
             "contentHash": "0f5a1b4f7815604ad2654a8c5862a87cd17b17da",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -181,14 +182,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoHelper.js",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 273,
             "modifiedTime": 1514294308163,
             "changeTime": 1514294308164,
             "contentHash": "2e5d904abb3670a2166028042ccef29101a4bed4",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -196,14 +197,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoRenderer.js",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1514223167807,
             "changeTime": 1514223167807,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -225,14 +226,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 215,
             "modifiedTime": 1514293320975,
             "changeTime": 1514293320975,
             "contentHash": "014473ce2429fb0f09cf1f880fa4bdc12bbe3e31",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -240,14 +241,14 @@
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1514224338019,
             "changeTime": 1514224338019,
             "contentHash": "6c4767c815985ab36a27ce33b3f8c2d923a53719",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
