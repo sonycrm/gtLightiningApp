@@ -6,6 +6,6 @@
     
         <p>Here is component...</p>
         <aura:iteration items="{!v.contacts}" var="con">
-            <a value="{!con.Id}"><p>{!con.Name}</p></a>
+            <a value="{!con.Id}"><p color="##FFHH00">{!con.Name}</p></a>
         </aura:iteration>
 </aura:component>	
