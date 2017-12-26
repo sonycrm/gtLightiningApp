@@ -1,8 +1,11 @@
 <aura:component implements="force:appHostable" controller="AuraContactDemo">
-    <p>Hello Salesforce DX, Welcome and Done..!!</p>
+    <p>Hello Salesforce DX, Welcome and Done..!!!!</p>
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
 
     <aura:attribute name="contacts" type="Contact[]" />
     
         <p>Here is component</p>
+        <aura:iteration items="{!v.contacts}" var="con">
+            <a value="{!con.Id}"><p>{!con.Name}</p></a>
+        </aura:iteration>
 </aura:component>	
