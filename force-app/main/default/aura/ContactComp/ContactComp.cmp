@@ -1,0 +1,25 @@
+<aura:component implements="force:appHostable" controller="ContactController">
+    <aura:attribute name="cont" type="Contact"/>
+
+           
+                        <th scope="row">
+                            <div class="slds-truncate" title="{!v.cont.Id}">
+                                <a href="javascript:void(0);">{!v.cont.Id}</a>
+                            </div>
+                        </th>
+                        <td>
+                            <div class="slds-truncate" title="{!v.cont.Name}">{!v.cont.Name}</div>
+                        </td>
+                        <td>
+                            <div class="slds-truncate" title="{!v.cont.Email}">{!v.cont.Email}</div>
+                        </td>
+                        <td>
+                            <div class="slds-truncate" title="{!v.cont.Phone}">{!v.cont.Phone}</div>
+                        </td>
+                        <td>
+                            <div class="slds-truncate" title="{!v.cont.Department}">{!v.cont.Department}</div>
+                        </td>
+
+
+
+</aura:component>	
