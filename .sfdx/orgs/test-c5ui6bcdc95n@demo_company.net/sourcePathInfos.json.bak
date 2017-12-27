@@ -1,8 +1,8 @@
 [
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1514220948270,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1514298804943,
@@ -30,9 +30,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1514220948271,
@@ -45,23 +45,23 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1514310292661,
-            "changeTime": 1514310292661,
-            "contentHash": "cae9758cf78ad936eb69b8658d495cac6a970541",
+            "modifiedTime": 1514313599293,
+            "changeTime": 1514313599293,
+            "contentHash": "abdf1c47fd967b3a980fc8e3dac0a07ce4dfcb41",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1514223167811,
@@ -74,9 +74,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.auradoc",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.auradoc",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.auradoc",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1514223167810,
@@ -89,9 +89,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp",
             "isDirectory": false,
             "size": 483,
             "modifiedTime": 1514297674568,
@@ -104,9 +104,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp-meta.xml",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp-meta.xml",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp-meta.xml",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.cmp-meta.xml",
             "isDirectory": false,
             "size": 241,
             "modifiedTime": 1514223167780,
@@ -119,9 +119,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.css",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.css",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.css",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.css",
             "isDirectory": false,
             "size": 10,
             "modifiedTime": 1514223167806,
@@ -134,9 +134,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.design",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.design",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.design",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1514223167811,
@@ -149,9 +149,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.svg",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.svg",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.svg",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemo.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1514223167809,
@@ -164,9 +164,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoController.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoController.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoController.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoController.js",
             "isDirectory": false,
             "size": 379,
             "modifiedTime": 1514294708250,
@@ -179,9 +179,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoHelper.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoHelper.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoHelper.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoHelper.js",
             "isDirectory": false,
             "size": 273,
             "modifiedTime": 1514294308163,
@@ -194,9 +194,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoRenderer.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoRenderer.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoRenderer.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\LightDemo\\LightDemoRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1514223167807,
@@ -209,9 +209,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo",
+        "E:\\SalesforceDX\\DXLightDemo",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1514224863192,
@@ -223,9 +223,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls",
             "isDirectory": false,
             "size": 215,
             "modifiedTime": 1514293320975,
@@ -238,9 +238,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls-meta.xml",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls-meta.xml",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls-meta.xml",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\AuraContactDemo.cls-meta.xml",
             "isDirectory": false,
             "size": 193,
             "modifiedTime": 1514224338019,
@@ -253,9 +253,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls",
             "isDirectory": false,
             "size": 531,
             "modifiedTime": 1514309476981,
@@ -267,9 +267,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls-meta.xml",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls-meta.xml",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls-meta.xml",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls-meta.xml",
             "isDirectory": false,
             "size": 195,
             "modifiedTime": 1514298804943,
@@ -282,9 +282,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1514299609625,
@@ -295,9 +295,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.auradoc",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.auradoc",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.auradoc",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1514299609625,
@@ -308,22 +308,22 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp",
         {
-            "state": "u",
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp",
             "isDirectory": false,
+            "size": 804,
+            "modifiedTime": 1514312910646,
+            "changeTime": 1514312910648,
+            "contentHash": "d1769eec19babef25b550a65033b930db2c89d47",
             "isMetadataFile": false,
-            "size": 1073,
-            "modifiedTime": 1514312221318,
-            "changeTime": 1514312221321,
-            "contentHash": "43ff6f3376c1be9ca91812bcfd5f562389e71752"
+            "state": "u"
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp-meta.xml",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp-meta.xml",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp-meta.xml",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp-meta.xml",
             "isDirectory": false,
             "size": 243,
             "modifiedTime": 1514299609618,
@@ -334,9 +334,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.css",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.css",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.css",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.css",
             "isDirectory": false,
             "size": 10,
             "modifiedTime": 1514299609622,
@@ -347,9 +347,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.design",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.design",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.design",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1514299609625,
@@ -360,9 +360,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.svg",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.svg",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.svg",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1514299609624,
@@ -373,9 +373,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompController.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompController.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompController.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompController.js",
             "isDirectory": false,
             "size": 65,
             "modifiedTime": 1514299609620,
@@ -386,9 +386,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompHelper.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompHelper.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompHelper.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1514299609621,
@@ -399,9 +399,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompRenderer.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompRenderer.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompRenderer.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactComp\\ContactCompRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1514299609623,
@@ -412,9 +412,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1514310292819,
@@ -425,9 +425,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.auradoc",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.auradoc",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.auradoc",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1514310292809,
@@ -438,9 +438,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp",
             "isDirectory": false,
             "size": 3755,
             "modifiedTime": 1514312125013,
@@ -451,9 +451,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp-meta.xml",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp-meta.xml",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp-meta.xml",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp-meta.xml",
             "isDirectory": false,
             "size": 247,
             "modifiedTime": 1514310292663,
@@ -464,9 +464,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.css",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.css",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.css",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.css",
             "isDirectory": false,
             "size": 10,
             "modifiedTime": 1514310292733,
@@ -477,9 +477,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.design",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.design",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.design",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1514310292819,
@@ -490,9 +490,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.svg",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.svg",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.svg",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1514310292808,
@@ -503,9 +503,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompController.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompController.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompController.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompController.js",
             "isDirectory": false,
             "size": 359,
             "modifiedTime": 1514311052686,
@@ -516,9 +516,9 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompHelper.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompHelper.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompHelper.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1514310292732,
@@ -529,13 +529,143 @@
         }
     ],
     [
-        "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompRenderer.js",
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompRenderer.js",
         {
-            "sourcePath": "e:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompRenderer.js",
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListCompRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1514310292734,
             "changeTime": 1514310292734,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514313599338,
+            "changeTime": 1514313599338,
+            "contentHash": "9e775b637cd34aaabaca105cbfac2b90e81e6612",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.auradoc",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1514313599338,
+            "changeTime": 1514313599338,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.cmp",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.cmp",
+            "isDirectory": false,
+            "size": 2737,
+            "modifiedTime": 1514313677785,
+            "changeTime": 1514313677787,
+            "contentHash": "d7dc942baffaeadb8ff952850ccbcc7d2d43efd5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.cmp-meta.xml",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1514313599332,
+            "changeTime": 1514313599332,
+            "contentHash": "9bfbaf0a02845b6fd7799840a8e5ad79ca9f3b8c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.css",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1514313599335,
+            "changeTime": 1514313599335,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.design",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1514313599339,
+            "changeTime": 1514313599339,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.svg",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1514313599337,
+            "changeTime": 1514313599337,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactCompController.js",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactCompController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1514313599333,
+            "changeTime": 1514313599333,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactCompHelper.js",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactCompHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1514313599334,
+            "changeTime": 1514313599334,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactCompRenderer.js",
+        {
+            "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactCompRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1514313599336,
+            "changeTime": 1514313599336,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
