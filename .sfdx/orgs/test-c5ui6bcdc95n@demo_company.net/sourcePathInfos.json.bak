@@ -55,7 +55,8 @@
             "contentHash": "abdf1c47fd967b3a980fc8e3dac0a07ce4dfcb41",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -257,10 +258,10 @@
         {
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls",
             "isDirectory": false,
-            "size": 531,
-            "modifiedTime": 1514309476981,
-            "changeTime": 1514309476984,
-            "contentHash": "a14c138e863bc23a96e19b20d2e1a61631ab92f1",
+            "size": 714,
+            "modifiedTime": 1514400747444,
+            "changeTime": 1514400747446,
+            "contentHash": "373c589ddb8d750fb1e809c62f806f52f765ee27",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -291,7 +292,9 @@
             "changeTime": 1514299609625,
             "contentHash": "331830c9efba5d89754d944142264a8dca35269e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -304,7 +307,9 @@
             "changeTime": 1514299609625,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -317,7 +322,9 @@
             "changeTime": 1514312910648,
             "contentHash": "d1769eec19babef25b550a65033b930db2c89d47",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -330,7 +337,9 @@
             "changeTime": 1514299609618,
             "contentHash": "3fe1fce217904afdb40c4336030abfc1a4d1a3c7",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -343,7 +352,9 @@
             "changeTime": 1514299609622,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -356,7 +367,9 @@
             "changeTime": 1514299609625,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -369,7 +382,9 @@
             "changeTime": 1514299609624,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -382,7 +397,9 @@
             "changeTime": 1514299609620,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -395,7 +412,9 @@
             "changeTime": 1514299609621,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -408,7 +427,9 @@
             "changeTime": 1514299609623,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -421,7 +442,9 @@
             "changeTime": 1514310292819,
             "contentHash": "b6615dae335f9f2bc7c99e930db3cf32d07c8771",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -434,7 +457,9 @@
             "changeTime": 1514310292809,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -447,7 +472,9 @@
             "changeTime": 1514312125015,
             "contentHash": "4ca6b3db209a335a4e9d8e4c27db433a525d2407",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -460,7 +487,9 @@
             "changeTime": 1514310292663,
             "contentHash": "5975d6c4a45c2a149a790b6ac1321c2acbcef1f1",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -473,7 +502,9 @@
             "changeTime": 1514310292733,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -486,7 +517,9 @@
             "changeTime": 1514310292819,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -499,7 +532,9 @@
             "changeTime": 1514310292808,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -512,7 +547,9 @@
             "changeTime": 1514311052687,
             "contentHash": "cb7580ff3f1c2917f1f4b98648b1c9c0a99aae6e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -525,7 +562,9 @@
             "changeTime": 1514310292732,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -538,7 +577,9 @@
             "changeTime": 1514310292734,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -551,7 +592,9 @@
             "changeTime": 1514313599338,
             "contentHash": "9e775b637cd34aaabaca105cbfac2b90e81e6612",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -564,20 +607,23 @@
             "changeTime": 1514313599338,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.cmp",
         {
+            "state": "u",
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.cmp",
             "isDirectory": false,
-            "size": 2737,
-            "modifiedTime": 1514313677785,
-            "changeTime": 1514313677787,
-            "contentHash": "d7dc942baffaeadb8ff952850ccbcc7d2d43efd5",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 3884,
+            "modifiedTime": 1514401936943,
+            "changeTime": 1514401936946,
+            "isWorkspace": false,
+            "contentHash": "0b2a15127b450b0d2bda73ddf1b3b7365c5fbe3b"
         }
     ],
     [
@@ -590,7 +636,9 @@
             "changeTime": 1514313599332,
             "contentHash": "9bfbaf0a02845b6fd7799840a8e5ad79ca9f3b8c",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -603,7 +651,9 @@
             "changeTime": 1514313599335,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -616,7 +666,9 @@
             "changeTime": 1514313599339,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -629,7 +681,9 @@
             "changeTime": 1514313599337,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -637,12 +691,13 @@
         {
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactCompController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1514313599333,
-            "changeTime": 1514313599333,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 549,
+            "modifiedTime": 1514401222681,
+            "changeTime": 1514400851860,
+            "contentHash": "476805b4c3c3efcd5c69750efd5d455fdf9de372",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -655,7 +710,9 @@
             "changeTime": 1514313599334,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -668,7 +725,9 @@
             "changeTime": 1514313599336,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ]
 ]

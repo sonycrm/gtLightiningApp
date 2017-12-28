@@ -12,4 +12,11 @@ public with sharing class ContactController {
         //Contact cont =[SELECT ID, Name From Contact Where Name LIKE :contName];
         return cont;
     }
+    
+    @AuraEnabled
+    public static Contact saveNewContact(Contact nCont){
+        insert nCont;
+        System.debug(' save method inserted:'+nCont);
+        return nCont;
+    }
 }
