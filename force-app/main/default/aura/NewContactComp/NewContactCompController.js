@@ -7,10 +7,16 @@
         });
         saveAction.setCallback(this,function(result){
             var res = result.getReturnValue();
-            //alert("Saving object1..." + res);
-            //alert("Saving object2..." + newCont);
-            component.set("v.saveResult",res);
+            if(result.getState()==="SUCCESS"){
+                component.set("v.saveResult", res);
+                $A.get("e.force:refreshView").fire();
+            }
         });
         $A.enqueueAction(saveAction);
+    },
+
+    closeCompActionWindow: function (component, event, helper) {
+        var closeActionPanel = $A.get("e.force:closeQuickAction");
+        closeActionPanel.fire();
     }
 })

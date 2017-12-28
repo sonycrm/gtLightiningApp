@@ -259,7 +259,7 @@
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\ContactController.cls",
             "isDirectory": false,
             "size": 714,
-            "modifiedTime": 1514400747444,
+            "modifiedTime": 1514464293036,
             "changeTime": 1514400747446,
             "contentHash": "373c589ddb8d750fb1e809c62f806f52f765ee27",
             "isMetadataFile": false,
@@ -469,11 +469,11 @@
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\ContactListComp\\ContactListComp.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 3927,
-            "modifiedTime": 1514403871457,
-            "changeTime": 1514403871457,
+            "size": 3851,
+            "modifiedTime": 1514484022621,
+            "changeTime": 1514484022622,
             "isWorkspace": false,
-            "contentHash": "6273d135c0f4df63c6d72d1f6b98c34be8a327d8"
+            "contentHash": "9b9879277b89b68893c552426d0a2de85827c6f2"
         }
     ],
     [
@@ -616,10 +616,10 @@
         {
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactComp.cmp",
             "isDirectory": false,
-            "size": 3884,
-            "modifiedTime": 1514401936943,
-            "changeTime": 1514401936946,
-            "contentHash": "0b2a15127b450b0d2bda73ddf1b3b7365c5fbe3b",
+            "size": 4849,
+            "modifiedTime": 1514483751629,
+            "changeTime": 1514483751628,
+            "contentHash": "5651d7d24d7d82fc681eca7b952b5fb3c4eddf08",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -690,10 +690,10 @@
         {
             "sourcePath": "E:\\SalesforceDX\\DXLightDemo\\force-app\\main\\default\\aura\\NewContactComp\\NewContactCompController.js",
             "isDirectory": false,
-            "size": 549,
-            "modifiedTime": 1514401222681,
-            "changeTime": 1514400851860,
-            "contentHash": "476805b4c3c3efcd5c69750efd5d455fdf9de372",
+            "size": 742,
+            "modifiedTime": 1514465642595,
+            "changeTime": 1514465642597,
+            "contentHash": "d2cbd6c796f47556892d372d9f4ade5e75960476",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false

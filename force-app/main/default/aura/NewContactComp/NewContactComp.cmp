@@ -1,8 +1,8 @@
-<aura:component implements="force:appHostable" controller="ContactController">
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,force:hasRecordId,force:lightningQuickAction" access="global" controller="ContactController">
     <aura:attribute name="newContact" type="Contact" default="{ 'sobjectType': 'Contact'}"/>
     <aura:attribute name="saveResult" type="Contact"/>
 
-    <div class="demo-only" style="width: 1000px; background-color:rgb(250, 250, 250);">
+   <!-- <div class="demo-only" style="width: 1000px; background-color:rgb(250, 250, 250);">
         <div class="slds-form slds-form_compound">
             <fieldset class="slds-form-element">
                 <legend class="slds-form-element__label slds-text-title_caps">Basic Details</legend>
@@ -11,12 +11,10 @@
                         <div class="slds-form-element slds-size_1-of-2">
                             <label class="slds-form-element__label" for="input-01">First Name</label>
                             <force:inputField class="slds-input" value="{!v.newContact.FirstName}" />
-                            <!--<input type="text" id="input-01" class="slds-input" value="{!v.newContact.FirstName}" /> -->
                         </div>
                         <div class="slds-form-element slds-size_1-of-2">
                             <label class="slds-form-element__label" for="input-02">Last Name</label>
-                            <force:inputField class="slds-input" value="{!v.newContact.LastName}" />
-                            <!--<input type="text" id="input-02" class="slds-input" value="{!v.newContact.LastName}"/> -->
+                            <force:inputField class="slds-input" value="{!v.newContact.LastName}" />  
                         </div>
                     </div>
                 </div>
@@ -27,13 +25,11 @@
                     <div class="slds-form-element__row">
                         <div class="slds-form-element slds-size_1-of-2">
                             <label class="slds-form-element__label" for="input-04">Email</label>
-                            <force:inputField class="slds-input" value="{!v.newContact.Email}" />
-                            <!--<input type="text" id="input-04" class="slds-input" value="{!v.newContact.Email}"/> -->
+                            <force:inputField class="slds-input" value="{!v.newContact.Email}" /> 
                         </div>
                         <div class="slds-form-element slds-size_1-of-2">
                             <label class="slds-form-element__label" for="input-05">Phone</label>
                             <force:inputField class="slds-input" value="{!v.newContact.Phone}" />
-                            <!--<input type="text" id="input-05" class="slds-input" value="{!v.newContact.Phone}"/> -->
                         </div>
                     </div>
                 </div>
@@ -45,17 +41,40 @@
                         <div class="slds-form-element slds-size_1-of-1">
                             <label class="slds-form-element__label" for="input-05">Department</label>
                             <force:inputField class="slds-input" value="{!v.newContact.Department}" />
-                            <!--<input type="text" id="input-05" class="slds-input" value="{!v.newContact.Department}"/>-->
                         </div>
                     </div>
                 </div>
             </fieldset>
             <div class="slds-grid slds-grid_align-center">
-                <button class="slds-button, slds-button_brand" onclick="{!c.saveNewContactComp}">Save</button>&nbsp;
-                <button class="slds-button, slds-button_brand">Cancel</button>
+                <button class="slds-button slds-button-
+                -brand cuf-publisherShareButton uiButton" onclick="{!c.saveNewContactComp}">Save</button>&nbsp;
+                <ui:button label="Close" class="slds-button slds-button-
+                -brand cuf-publisherShareButton uiButton" press="{!c.closeCompActionWindow}"/>
                 <p>Results : {!v.saveResult}</p>
             </div>
         </div>
-    </div>
+    </div> -->
 
+<div class="slds-form slds-form_compound" style="background-color:rgb(250, 250, 250);">
+    <lightning:layout horizontalAlign="center">
+        <lightning:layoutItem flexibility="auto">
+            <ui:inputText label="First Name" value="{!v.newContact.FirstName}" />
+            <ui:inputText label="Last Name" value="{!v.newContact.LastName}" />
+            <ui:inputText label="Email" value="{!v.newContact.Email}" />
+            <ui:inputText label="Phone" value="{!v.newContact.Phone}" />
+            <ui:inputText label="Department" value="{!v.newContact.Department}" /> 
+        
+            <!--<button class="slds-button slds-button-
+                -brand cuf-publisherShareButton uiButton" onclick="{!c.saveNewContactComp}">Save</button>
+            <ui:button label="Close" class="slds-button slds-button-
+            -brand cuf-publisherShareButton uiButton" press="{!c.closeCompActionWindow}"/>-->
+
+            <lightning:buttonGroup class="slds-button-group">
+                <lightning:button class="slds-button slds-button_neutral" label="Save" onclick="{!c.saveNewContactComp }" />
+                <lightning:button class="slds-button slds-button_neutral" label="Close" onclick="{!c.closeCompActionWindow }" />
+            </lightning:buttonGroup>
+
+        </lightning:layoutItem>
+    </lightning:layout>
+</div>
 </aura:component>	
